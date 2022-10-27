@@ -10,3 +10,7 @@ cursor.execute("SELECT sc.companyname, country city FROM Sales.Customers as sc W
 
 for i in cursor:
     print(i)
+
+print("hoi")
+
+
